@@ -1,4 +1,6 @@
 # elevations_systeme
+REPLACED STATIC ARRAYS WITH DYNAMIC MEMORY ALLOC
+
 Task from recruiter
 Requirements:
 - up to 16 elevators
